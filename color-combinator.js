@@ -2,7 +2,6 @@
  * YOUR CODE HERE *
  ******************/
 
-
 function colorCombinator(color1, color2) {
   const firstIsNotAPrimary = color1 !== 'red'
     && color1 !== 'yellow'
